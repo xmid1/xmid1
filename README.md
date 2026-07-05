@@ -1,104 +1,91 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=26&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=XMidleg;Full+Stack+Developer;AI+Builder;System+Architect" />
+<img width="100%" src="./assets/grid.svg" />
+
+<br><br>
+
+# XMidleg
+
+### Building intelligent systems, modern interfaces, and powerful digital experiences.
 
 <br>
 
-<img src="https://img.shields.io/github/followers/xmid1?style=flat-square&label=followers&color=18181b">
-<img src="https://img.shields.io/github/stars/xmid1?style=flat-square&label=stars&color=18181b">
-<img src="https://komarev.com/ghpvc/?username=xmid1&style=flat-square&color=18181b">
+<p>
+  <img src="https://img.shields.io/badge/Full%20Stack-18181B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI%20Developer-18181B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/System%20Designer-18181B?style=for-the-badge">
+</p>
 
 </div>
 
-<br>
+---
 
-<img width="100%" src="https://svgshare.com/i/17wA.svg">
+## /about
 
-## ✦ About
+```ts
+export const profile = {
+  name: "XMidleg",
 
-```typescript
-const xmidleg = {
-    role: "Full Stack Developer",
-    specialization: [
-        "Artificial Intelligence",
-        "Backend Engineering",
-        "Automation",
-        "Discord Systems",
-        "Modern Interfaces"
-    ],
+  focus: [
+    "Artificial Intelligence",
+    "Backend Engineering",
+    "Automation",
+    "Modern Web Platforms",
+    "Developer Experience"
+  ],
 
-    currently_building: [
-        "AI Platforms",
-        "Developer Tools",
-        "Automation Systems"
-    ],
+  currentlyBuilding: [
+    "AI Systems",
+    "Developer Tools",
+    "Automation Platforms"
+  ],
 
-    philosophy: "Build beautiful. Build scalable."
+  philosophy:
+    "Build beautiful. Build scalable."
 };
 ```
 
-<br>
+---
 
-## ✦ Stack
+## /stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,java,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,docker,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git" />
 
 </div>
 
-<br>
+---
 
-## ✦ GitHub Analytics
+## /expertise
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xmid1&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=xmid1&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmid1&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a1a1aa"/>
-
-</div>
-
-<br>
-
-## ✦ Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=xmid1&theme=github-dark&hide_border=true&bg_color=00000000&line=ffffff&point=a1a1aa&color=a1a1aa"/>
-
-</div>
-
-<br>
-
-## ✦ Expertise
-
-```text
+```
 Artificial Intelligence     ████████████████████
-Backend Engineering         ██████████████████
-Frontend Development        ███████████████
-Discord Systems             ███████████████████
+Backend Systems             ██████████████████
+Frontend Development        ████████████████
 Automation                  ██████████████████
-System Architecture         ████████████████
+Discord Platforms           ███████████████████
+System Architecture         ███████████████
 ```
 
-<br>
+---
+
+## /currently
+
+* Designing AI-powered applications
+* Building automation systems
+* Creating modern user experiences
+* Exploring scalable architectures
+
+---
 
 <div align="center">
 
@@ -106,8 +93,10 @@ System Architecture         ████████████████
 
 ### Design.
 
-### Ship.
+### Scale.
 
 </div>
 
-<img width="100%" src="https://svgshare.com/i/17wA.svg">
+<br>
+
+<img width="100%" src="./assets/grid.svg" />
