@@ -42,14 +42,6 @@
 
 ---
 
-## 🏙️ 3D City View
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xmid1/xmid1/main/3d-city.gif" width="100%" />
-</p>
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
