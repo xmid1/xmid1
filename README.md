@@ -1,18 +1,17 @@
 <h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">
-  I'm XMidleg
+  Hey 👋 I'm XMidleg
 </h1>
 
 <h3 align="center">FULL STACK DEVELOPER</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=xmid1">
-    <img src="https://komarev.com/ghpvc/?username=xmid1&label=Profile%20views&color=00FFFF&style=flat-square" alt="xmid1's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=xmid1&label=Profile%20views&color=00FFFF&style=flat-square" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" width="100%" />
 </div>
 
 ---
@@ -23,7 +22,7 @@
 
 ---
 
-## 🧠 My Focus Areas
+## 🧠 Focus Areas
 - Cyber Security  
 - Backend Development  
 - Full Stack Web Development  
@@ -37,18 +36,22 @@
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xmid1&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=xmid1&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
 </p>
 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=xmid1&theme=radical&radius=10" />
 </p>
 
+---
+
+## 🏙️ 3D City View
+
 <p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+  <img src="/3d-city.gif" width="100%" />
 </p>
 
 ---
@@ -72,7 +75,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" />
 </p>
 
 ### Backend
@@ -97,6 +99,8 @@
 </p>
 
 ---
+
+## 📈 Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" />
