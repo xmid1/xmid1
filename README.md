@@ -1,116 +1,109 @@
+<h1 align="center">
+  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">
+  I'm XMidleg
+</h1>
+
+<h3 align="center">FULL STACK DEVELOPER</h3>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=xmid1">
+    <img src="https://komarev.com/ghpvc/?username=xmid1&label=Profile%20views&color=00FFFF&style=flat-square" alt="xmid1's profile views" />
+  </a>
+</p>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=220&section=header&text=XMidleg&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Builder%20of%20Ambitious%20Products&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://github.com/xmid1">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Lumai+%E2%80%94+AI+Website+Builder;Shipping+Atlas+Deploy+%E2%80%94+Cloud+SaaS;Crafting+Atlas+RP+%E2%80%94+FiveM+Roleplay+UI;Full-Stack+%7C+React+%2F+Node+%2F+Supabase;&font=Fira%20Code&center=true&width=600&height=45&color=A855F7&vCenter=true&size=22&pause=1200"/>
-</a>
-
+  <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 </div>
 
-<br>
+---
 
-<img src="https://raw.githubusercontent.com/xmid1/xmid1/main/assets/divider.svg" width="100%">
+## 📌 About Me
+- A passionate developer focused on building powerful, scalable, and secure systems.
+- I enjoy turning ideas into real-world applications and constantly improving my skills in backend engineering, cybersecurity, and automation.
 
-## 👋 About Me
+---
 
-I'm **XMidleg**, a full-stack developer who likes building complete, polished products end-to-end — frontend, backend, and infrastructure. I currently juggle a few ambitious projects at once, from AI-powered dev tools to cloud platforms and game experiences.
+## 🧠 My Focus Areas
+- Cyber Security  
+- Backend Development  
+- Full Stack Web Development  
+- API Design & Development  
+- System Architecture  
+- Automation & Scripting  
+- Open Source Contributions  
+- Linux & System Administration  
+- Performance Optimization  
+- Problem Solving & Algorithms  
 
-- 🔭 Currently building **Lumai** — an AI-powered visual website builder
-- ☁️ Also shipping **Atlas Deploy** — a cloud deployment SaaS platform
-- 🎮 Designing UI/UX for **Atlas RP** — a FiveM/GTA roleplay server
-- 🧠 Exploring an open-source **AI Middleware / Intelligence Layer**
-- 🕹️ Building immersive experiences in **Roblox Studio**
-- 🌱 Always refining dark, minimal, Linear-inspired design systems
-- 💬 Comfortable directing AI coding agents with precise, structured prompts
+---
 
-<br>
+## 📊 GitHub Stats & Trophies
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=xmid1&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=xmid1&theme=radical&radius=10" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,html,css,python,supabase,postgres,git,github,figma,vscode,vercel,docker,cloudflare&theme=dark" />
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
-</div>
+---
 
-<br>
+## 🛠️ Languages & Tools
 
-## 🚀 Featured Projects
+### Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
+</p>
 
-<div align="center">
+### Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" />
+</p>
 
-<table>
-<tr>
-<td width="50%">
+### Backend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="40" />
+</p>
 
-### 🎨 [Lumai](https://github.com/xmid1)
-AI-powered visual website builder — drag, prompt, and ship production-ready sites.
+### Database
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
+</p>
 
-`React` `Tailwind` `Supabase` `AI`
+### Tools
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="40" />
+</p>
 
-</td>
-<td width="50%">
+---
 
-### ☁️ [Atlas Deploy](https://github.com/xmid1)
-Cloud deployment SaaS with Stripe billing, Cloudflare DNS, and live domain verification.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" />
+</p>
 
-`Next.js` `Supabase` `Stripe` `Cloudflare`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎮 [Atlas RP](https://github.com/xmid1)
-Custom UI/UX for a FiveM/GTA roleplay server, including a multi-step character creator.
-
-`FiveM` `Lua` `UI/UX`
-
-</td>
-<td width="50%">
-
-### 🧟 [Deadzone // 2094](https://github.com/xmid1)
-Cinematic horror survival game in Roblox — analog-horror aesthetic, zombie AI, multi-ending narrative.
-
-`Roblox Studio` `Lua` `Game Design`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xmid1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmid1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xmid1&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=A855F7"/>
-
-</div>
-
-<br>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/xmid1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6366F1&height=100&section=footer" width="100%"/>
+---
 
 <div align="center">
-<sub>⚡ Built with late nights, strong coffee, and a lot of Tailwind classes.</sub>
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 </div>
